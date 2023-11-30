@@ -1,0 +1,128 @@
+body {
+    font-family: Arial black;
+    margin: 0;
+    padding: 0;
+    background-color: lightseagreen;
+}
+
+.banner {
+    background-color: lightseagreen;
+    color: lightpink;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.startbutton {
+    height: 40px;
+    align-items: center;
+    margin-left: 43%;
+    margin-right: 43%;
+    width: 14%;
+    font-size: 20px;
+    background: rgba(lightpink, .1);
+    color: lightpink;
+    background-color: lightseagreen;
+    box-shadow: 0px 0px 0px 5px rgba(white, 0.95);
+    border: 3px solid white;
+    transition: .3s all ease-in-out;
+    border-radius: 40px;
+    position: relative;
+    top: -30px
+}
+
+.startbutton:hover {
+    background: rgba(black, 0.2);
+    box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 255)
+}
+
+.topp {
+    background-color: black;
+    background-size: 100%;
+    color: #ccc;
+    width: 800px;
+    height: 100px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 1%;
+}
+
+#buttonleft {
+    border-radius: 50%;
+    color: lightpink;
+    background-color: lightseagreen;
+    margin-left: 2%;
+    width: 40px;
+    height: 40px;
+}
+
+#buttonleft:hover {
+    background-color: rgb(255, 127, 236);
+}
+
+#buttonright {
+    border-radius: 50%;
+    color: lightpink;
+    background-color: lightseagreen;
+    margin-right: 2%;
+    width: 40px;
+    height: 40px;
+}
+
+#buttonright:hover {
+    background-color: rgb(255, 127, 236);
+}
+
+#titletop {
+    color: lightpink;
+}
+
+#yt {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#conteneur {
+    display: flexbox;
+    background-color: lightseagreen;
+    color: lightpink;
+    position: relative;
+    top: -40px;
+    height: 800px;
+}
+
+#reponse {
+    display: vertical;
+    margin: 0% 0% 0%;
+}
+
+.button:hover {
+    background-color: lightseagreen;
+}
+
+.buttontest {
+    display: none;
+    height: 40px;
+    font-size: 20px;
+    align-items: center;
+    margin-left: 43%;
+    margin-right: 43%;
+    width: 14%;
+    background: rgba(lightpink, .1);
+    color: lightpink;
+    background-color: lightseagreen;
+    box-shadow: 0px 0px 0px 5px rgba(white, 0.95);
+    border: 3px solid white;
+    transition: .3s all ease-in-out;
+    border-radius: 40px;
+    position: relative;
+    top: 30px
+}
+
+.buttontest:hover {
+    background: rgba(black, 0.2);
+    box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 255)
+}
