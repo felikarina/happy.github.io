@@ -34,4 +34,4 @@ https://github.com/felikarina/happy.github.io.git
 
 ## Auteur
 
-Ce projet a été développé par [Karina](https://github.com/felikarina), [Rémy](https://github.com/harfore) & [Hanaé](https://github.com/Hanaevernon)
+Ce projet a été développé par [Karina](https://github.com/felikarina), [Rémi](https://github.com/harfore) & [Hanaë](https://github.com/Hanaevernon)
