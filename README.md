@@ -5,7 +5,7 @@
 Ce projet est une application web qui permet à l'utilisateur de découvrir les trois animes les plus tendances et de répondre à un quiz pour découvrir des recommandations personnalisées basées sur ses préférences.
 
 ## Lien utile
-[Site Happy](https://felikarina.github.io/happy.github.io/)
+[Lien du site hébergé](https://felikarina.github.io/happy.github.io/)
 
 ## Fonctionnalités
 
@@ -32,6 +32,6 @@ https://github.com/felikarina/happy.github.io.git
 
 3. Explorez les trois animes les plus tendances et répondez au quiz pour découvrir des recommandations personnalisées !
 
-## Auteur
+## Auteurs
 
 Ce projet a été développé par [Karina](https://github.com/felikarina), [Rémi](https://github.com/harfore) & [Hanaë](https://github.com/Hanaevernon)
