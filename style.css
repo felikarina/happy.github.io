@@ -11,13 +11,13 @@ body {
     text-align: center;
     padding: 50px 0;
 }
-
+.startbutton-container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
 .startbutton {
-    height: 40px;
-    align-items: center;
-    margin-left: 43%;
-    margin-right: 43%;
-    width: 14%;
+    padding: 10px 20px;
     font-size: 20px;
     background: rgba(lightpink, .1);
     color: lightpink;
@@ -27,12 +27,14 @@ body {
     transition: .3s all ease-in-out;
     border-radius: 40px;
     position: relative;
-    top: -30px
+    top: -30px;
+    display: inline-block;
+    text-align: center;
 }
 
 .startbutton:hover {
     background: rgba(black, 0.2);
-    box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 255)
+    box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 255);
 }
 
 .topp {
